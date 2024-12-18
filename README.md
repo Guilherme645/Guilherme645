@@ -5,7 +5,6 @@
 - 💼 Trabalho como **Desenvolvedor Front-end Freelancer**, entregando código limpo e eficiente para aplicações web personalizadas.
 - 💞️ Estou em busca de colaborar em **projetos open-source** e desafios relacionados ao desenvolvimento web.
 - 📫 Como me contatar: [LinkedIn](https://www.linkedin.com/in/guilherme-carvalho-da-silva-1b5107262/) ou pelo e-mail **guilherme64513@Gmail.com**.
-- 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Sou apaixonado por aprender novos idiomas — atualmente estudando **Francês**!
 
 ---
